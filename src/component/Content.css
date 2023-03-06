@@ -1,0 +1,19 @@
+.content{
+    display: flex;
+    width: 80%;
+    border: 1px solid green;
+    margin: 0 auto;
+}
+
+.left{
+    border-right: 1px solid green;
+    width: 20%;
+}
+
+.right{
+    width: 80%;
+}
+
+.right p{
+    text-align: center;
+}
